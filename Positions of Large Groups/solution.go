@@ -12,5 +12,4 @@ func largeGroupPositions(S string) [][]int {
 		}
 	}
 	return result
-
 }
